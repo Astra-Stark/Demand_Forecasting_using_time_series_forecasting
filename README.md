@@ -49,4 +49,4 @@ The integration of XGBOOST and SARIMA models offers a comprehensive understandin
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, xgboost, statsmodels, matplotlib, seaborn, PySpark
 
-For more details, please refer to the full research paper. If you have any questions or feedback, feel free to contact me at (mailto:astha27sharma@gmail.com).
+For more details, please refer to the full research paper. If you have any questions or feedback, feel free to contact me at (mailto:astha27sharma@gmail.com), (mailto:astha27sharma@gmail.com).
